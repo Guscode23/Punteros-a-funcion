@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1662994227 source:c:\users\laboratorios\desktop\productospunterosfunciones\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Productos.h"
+
+1662993018 c:\users\laboratorios\desktop\productospunterosfunciones\productos.h
+	<string.h>
+
+1662994193 source:c:\users\laboratorios\desktop\productospunterosfunciones\productos.c
+	<stdio.h>
+	<stdlib.h>
+	"Productos.h"
+
+1663107601 source:c:\users\rosal\downloads\productospunterosfunciones\productospunterosfunciones\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Productos.h"
+
+1663107601 c:\users\rosal\downloads\productospunterosfunciones\productospunterosfunciones\productos.h
+	<string.h>
+
+1663107601 source:c:\users\rosal\downloads\productospunterosfunciones\productospunterosfunciones\productos.c
+	<stdio.h>
+	<stdlib.h>
+	"Productos.h"
+
